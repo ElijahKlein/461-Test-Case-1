@@ -1,1 +1,1 @@
-print("penis")
+print("random")
